@@ -3,7 +3,7 @@
 /*
 Please set up here your MySQL database.
 */
-$host = "eu01-db.cus.mc-panel.net";
+$host = "";
 $name = "db_321408";
 $user = "db_321408";
 $password = "c04d0de83d";
