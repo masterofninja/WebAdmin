@@ -3,10 +3,10 @@
 /*
 Please set up here your MySQL database.
 */
-$host = "localhost";
-$name = "webadmin";
-$user = "root";
-$password = "";
+$host = "eu01-db.cus.mc-panel.net";
+$name = "db_321408";
+$user = "db_321408";
+$password = "c04d0de83d";
 
 try{
     $mysql = new PDO("mysql:host=$host;dbname=$name", $user, $password);
